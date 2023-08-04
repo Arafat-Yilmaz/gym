@@ -32,6 +32,7 @@ React: Frontend framework for building user interfaces.
 Fetch: HTTP client to make API requests to RapidAPI.
 React Router: For handling navigation within the app.
 RapidAPI: To access fitness-related data and APIs.
+Material UI:For styling the app components.
 API Used
 
 The app utilizes the following RapidAPI endpoints to fetch fitness data:
